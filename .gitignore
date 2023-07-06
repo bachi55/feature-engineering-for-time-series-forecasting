@@ -7,4 +7,6 @@
 *.xlsx
 
 # folders
-
+.scripts
+.vscode
+*.code-workspace
